@@ -1,0 +1,22 @@
+[
+  {"category": "simple", "question": "Quel joueur a marqué le plus de points cette saison ?"},
+  {"category": "simple", "question": "Quel joueur a le meilleur pourcentage de réussite aux lancers francs ?"},
+
+  {"category": "complex", "question": "Quel joueur a le meilleur pourcentage à 3 points sur les 5 derniers matchs ?"},
+  {"category": "complex", "question": "Quel joueur a la meilleure moyenne points + rebonds + passes ?"},
+
+  {"category": "noisy", "question": "C ki le meilleur shooter ?"},
+  {"category": "noisy", "question": "Donne moi le top gars au rebond def"},
+
+  {"category": "ambiguous", "question": "Qui est le meilleur joueur ?"},
+  {"category": "ambiguous", "question": "Qui a été le plus clutch ?"},
+
+  {"category": "mixed", "question": "Selon les rapports, quel joueur est décrit comme le plus agressif au rebond offensif ?"},
+  {"category": "mixed", "question": "Quel joueur combine le meilleur % à 3 points et la meilleure évaluation défensive ?"},
+
+  {"category": "sql", "question": "Quel joueur a le plus grand nombre de rebonds offensifs ?"},
+  {"category": "sql", "question": "Quel joueur a la meilleure moyenne de points par match ?"},
+
+  {"category": "rag", "question": "Quels sont les points forts de Julius Randle selon les rapports ?"},
+  {"category": "rag", "question": "Comment est décrit le jeu de Bam Adebayo dans les documents ?"}
+]
