@@ -23,7 +23,7 @@ dependencies = [
     "python-docx==1.1.2",
     "python-dotenv==1.1.0",
     "ragas==0.1.4",
-    "requests==2.32.3",
+    "requests==2.32.4",
     "sentence-transformers>=5.2.0",
     "sqlalchemy>=2.0.45",
     "streamlit==1.44.1",
